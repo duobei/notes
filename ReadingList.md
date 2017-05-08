@@ -1,3 +1,3 @@
-- [] [A tour of the Haskell Monad functions](http://members.chello.nl/hjgtuyl/tourdemonad.html)
-- [] [Learning Monads in an Example](https://github.com/DiegoVicen/monadic-gcd)
-- [] []()
+- [ ] [A tour of the Haskell Monad functions](http://members.chello.nl/hjgtuyl/tourdemonad.html)
+- [ ] [Learning Monads in an Example](https://github.com/DiegoVicen/monadic-gcd)
+- [ ] []()
