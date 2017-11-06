@@ -6,3 +6,8 @@
 - https://rust-china.org/
 - https://www.rust-lang-cn.org/
 - https://users.rust-lang.org/
+- http://cglab.ca/~abeinges/blah/too-many-lists/book/
+- http://hermanradtke.com/2015/07/22/creating-a-multi-echo-server-using-rust-and-mio.html
+- https://github.com/nrc/r4cppp
+- http://wooya.me/#open
+- https://rustbyexample.com
