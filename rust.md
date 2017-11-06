@@ -1,0 +1,8 @@
+- https://www.reddit.com/r/rust/new/
+- https://doc.rust-lang.org/book/
+- https://github.com/rust-lang-nursery/rls-vscode
+- https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+- https://blog.lilydjwg.me
+- https://rust-china.org/
+- https://www.rust-lang-cn.org/
+- https://users.rust-lang.org/
